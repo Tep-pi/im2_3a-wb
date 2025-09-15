@@ -1,0 +1,7 @@
+C:\Users\Steffi\source\repos\SW1\prime\bin\Debug\Prime.exe.config
+C:\Users\Steffi\source\repos\SW1\prime\bin\Debug\Prime.exe
+C:\Users\Steffi\source\repos\SW1\prime\bin\Debug\Prime.pdb
+C:\Users\Steffi\source\repos\SW1\prime\obj\Debug\Prime.csproj.AssemblyReference.cache
+C:\Users\Steffi\source\repos\SW1\prime\obj\Debug\Prime.csproj.CoreCompileInputs.cache
+C:\Users\Steffi\source\repos\SW1\prime\obj\Debug\Prime.exe
+C:\Users\Steffi\source\repos\SW1\prime\obj\Debug\Prime.pdb

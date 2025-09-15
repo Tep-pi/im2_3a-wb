@@ -1,0 +1,7 @@
+C:\Users\Steffi\source\repos\SW1\Currency\bin\Debug\Currency.exe.config
+C:\Users\Steffi\source\repos\SW1\Currency\bin\Debug\Currency.exe
+C:\Users\Steffi\source\repos\SW1\Currency\bin\Debug\Currency.pdb
+C:\Users\Steffi\source\repos\SW1\Currency\obj\Debug\Currency.csproj.AssemblyReference.cache
+C:\Users\Steffi\source\repos\SW1\Currency\obj\Debug\Currency.csproj.CoreCompileInputs.cache
+C:\Users\Steffi\source\repos\SW1\Currency\obj\Debug\Currency.exe
+C:\Users\Steffi\source\repos\SW1\Currency\obj\Debug\Currency.pdb
